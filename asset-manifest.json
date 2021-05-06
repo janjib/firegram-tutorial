@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firegram-tutorial/static/css/main.69b19522.chunk.css",
+    "main.js": "/firegram-tutorial/static/js/main.c6041c7c.chunk.js",
+    "main.js.map": "/firegram-tutorial/static/js/main.c6041c7c.chunk.js.map",
+    "runtime-main.js": "/firegram-tutorial/static/js/runtime-main.bfa07b68.js",
+    "runtime-main.js.map": "/firegram-tutorial/static/js/runtime-main.bfa07b68.js.map",
+    "static/js/2.83f2b0ad.chunk.js": "/firegram-tutorial/static/js/2.83f2b0ad.chunk.js",
+    "static/js/2.83f2b0ad.chunk.js.map": "/firegram-tutorial/static/js/2.83f2b0ad.chunk.js.map",
+    "index.html": "/firegram-tutorial/index.html",
+    "precache-manifest.75652d8972f52e1621ecfdf3ae5dd163.js": "/firegram-tutorial/precache-manifest.75652d8972f52e1621ecfdf3ae5dd163.js",
+    "service-worker.js": "/firegram-tutorial/service-worker.js",
+    "static/css/main.69b19522.chunk.css.map": "/firegram-tutorial/static/css/main.69b19522.chunk.css.map",
+    "static/js/2.83f2b0ad.chunk.js.LICENSE.txt": "/firegram-tutorial/static/js/2.83f2b0ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfa07b68.js",
+    "static/js/2.83f2b0ad.chunk.js",
+    "static/css/main.69b19522.chunk.css",
+    "static/js/main.c6041c7c.chunk.js"
+  ]
+}
